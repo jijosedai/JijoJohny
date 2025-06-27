@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Web3-Enthusiast-blue?style=flat-square&logo=ethereum" alt="Web3 Enthusiast" /> <img src="https://img.shields.io/badge/Zero%20Knowledge%20Proofs-Expert-blueviolet?style=flat-square" alt="Zero Knowledge Proofs" /> <img src="https://img.shields.io/badge/Decentralized%20Apps-Building-brightgreen?style=flat-square" alt="Decentralized Apps" /> </p>
 🚀 About Me
 👨‍💻 With 3+ years of experience, I build decentralized applications and privacy-first solutions using ZKP and FHE.
-🎓 Final-year student at TKM College, Kollam, passionate about fostering innovation in Web3 through events and hackathons.
+🎓Graduated from TKM College, Kollam, passionate about fostering innovation in Web3 through events and won 5+ hackathons.
 ✨ Actively contributing to the blockchain ecosystem by hosting meetups, ecosystem calls, and collaborating with developer communities.
 <br>
 🛠️ Tech Stack
@@ -20,7 +20,7 @@ Health Insurance Security: Developing solutions using blockchain and ZKPs to pro
 Community Building: Hosting Web3 IRL events to connect developers and enthusiasts.
 🏆 Achievements
 🏅 Winner: Akave Track at Eth-India 2024
-🏅 Winner: Stellar Track at Xinnovate Hackathon.
+🏅 Winner: Xinnovate Hackathon.
 🥇 Top 3 in Asia's first DEAI Hackathon by ELNA AI.
 🚀 Shipped 3+ projects during the Radar Hackathon.
 🌐 Organized Solana ecosystem events with increasing community engagement.
