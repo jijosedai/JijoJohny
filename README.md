@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Jijo Johny</h1> <p align="center"> 🌟 <b>Web3 Developer | Blockchain Enthusiast | Business Developer</b> </p>
+<h1 align="center">👋 Hi </h1> <p align="center"> 🌟 <b>Web3 Developer | Blockchain Enthusiast </b> </p>
 <p align="center"> <img src="https://img.shields.io/badge/Web3-Enthusiast-blue?style=flat-square&logo=ethereum" alt="Web3 Enthusiast" /> <img src="https://img.shields.io/badge/Zero%20Knowledge%20Proofs-Expert-blueviolet?style=flat-square" alt="Zero Knowledge Proofs" /> <img src="https://img.shields.io/badge/Decentralized%20Apps-Building-brightgreen?style=flat-square" alt="Decentralized Apps" /> </p>
 🚀 About Me
 👨‍💻 With 3+ years of experience, I build decentralized applications and privacy-first solutions using ZKP and FHE.
-🎓Graduated from TKM College, Kollam, passionate about fostering innovation in Web3 through events and won 5+ hackathons.
+🎓Graduated from TKM College, Kollam, passionate about fostering innovation in Web3 through events and won 8+ hackathons.
 ✨ Actively contributing to the blockchain ecosystem by hosting meetups, ecosystem calls, and collaborating with developer communities.
 <br>
 🛠️ Tech Stack
@@ -15,14 +15,7 @@ Programming Languages
 Tools & Design
 <p align="center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" /> </p>
 🚀 What I'm Working On
-Unified dApp Platform: Building a platform to enable seamless access to all dApps.
-Health Insurance Security: Developing solutions using blockchain and ZKPs to protect sensitive data.
-Community Building: Hosting Web3 IRL events to connect developers and enthusiasts.
-🏆 Achievements
-🏅 Winner: Akave Track at Eth-India 2024
-🏅 Winner: Xinnovate Hackathon.
-🥇 Top 3 in Asia's first DEAI Hackathon by ELNA AI.
-🚀 Shipped 3+ projects during the Radar Hackathon.
-🌐 Organized Solana ecosystem events with increasing community engagement.
+Sedai : AI observability and optimization platform that autonomously monitors, analyzes, and manages cloud workloads to improve performance and cost efficiency.
+
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/jijo-johny-629955239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/jijoeth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://github.com/JijoJohny"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
